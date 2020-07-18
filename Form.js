@@ -22,7 +22,7 @@ class Form {
       this.input.position(displayWidth / 2 - 40, displayHeight / 2 - 80);
       this.input.style('width','200px');
       this.input.style('height','20px');
-      this.input.style('background','blue');
+      this.input.style('background','white');
       this.button.position(displayWidth / 2 -40 , displayHeight / 2+120);
       this.button.style('width','200px');
       this.button.style('height','40px');

@@ -53,9 +53,6 @@ class Game {
         background(rgb(198,135,103));
         image(track,0,360,displayWidth*4, displayHeight+60);
         
-        //var display_position = 100;
-        
-        //index of the array
         var index = 0;
   
         //x and y position of the cars
@@ -100,7 +97,7 @@ class Game {
     }
   
     end(){
-      console.log("Game Ended");
+      console.log("Game Over");
     }
   }
   
